@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exam1</string>
+    <string name="ACTV1">ActivityOne</string>
+    <string name="ACTV2">ActivityTwo</string>
+    <string name="ACTV3">ActivityThree</string>
+</resources>
